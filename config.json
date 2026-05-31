@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseverify",
+        "uuid": 26240168,
+        "checksum": "azmisq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
